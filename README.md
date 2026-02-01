@@ -36,5 +36,10 @@ This repository contains C++ implementations of core **Divide and Conquer algori
 ## How to Run
 
 ### Compile:
-```bash
 g++ Q1.cpp -o Q1
+### Execute:
+./Q1
+
+---
+
+
